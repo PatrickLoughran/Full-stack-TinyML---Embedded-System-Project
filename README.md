@@ -220,6 +220,23 @@ The system was evaluated under a range of operating conditions including:
 
 ---
 
+##Installation
+
+## Running the Project
+
+### Backend
+
+npm install
+
+npm start
+
+### Frontend
+
+npm install
+
+npm run dev
+
+
 ## Future Improvements
 
 Potential future developments include:
