@@ -160,7 +160,7 @@ tinyml-smart-parking-system/
 
 ## Project Demonstration
 
-All Project Demonstration and Diagrams can be found in the 'Screenshots' folder above. 
+All Project Demonstration Images and Diagrams can be found in the 'Screenshots' folder above. 
 
 ## Testing and Evaluation
 
