@@ -160,47 +160,7 @@ tinyml-smart-parking-system/
 
 ## Project Demonstration
 
-### System Architecture
-
-![System Architecture](screenshots/system-architecture-diagram.png)
-
-### Data Flow
-
-![Data Flow](screenshots/data-flow-diagram.png)
-
-### TinyML Training Performance
-
-![Edge Impulse Metrics](screenshots/edge-impulse-metrics.png)
-
-### Feature Space Visualisation
-
-![Feature Space](screenshots/feature-space-visualisation.png)
-
-### Dashboard (Dark Mode)
-
-![Dashboard Dark](screenshots/dashboard-dark-mode.png)
-
-### Dashboard (Light Mode)
-
-![Dashboard Light](screenshots/dashboard-light-mode.png)
-
-### Dashboard Analytics
-
-![Dashboard Analytics](screenshots/dashboard-duration-chart.png)
-
-### Backend API Processing
-
-![Backend Logic](screenshots/nodejs-backend-logic.png)
-
-### ESP32 Communication
-
-![JSON Payload](screenshots/esp32-json-payload.png)
-
-### Live System Operation
-
-![System Live Action](screenshots/system-live-action.png)
-
----
+All Project Demonstration and Diagrams can be found in the 'Screenshots' folder above. 
 
 ## Testing and Evaluation
 
