@@ -2,6 +2,8 @@
 
 A full-stack smart parking system that combines Embedded Systems, TinyML, IoT communication, backend API development, and a modern React dashboard to provide real-time parking occupancy monitoring.
 
+*Attained 75.33% for this project build/dissertation.
+
 ---
 
 ## Project Overview
